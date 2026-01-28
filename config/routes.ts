@@ -36,6 +36,18 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+    {
+    path: '/bai-1',
+    name: 'Bài 1: Game Đoán Số',
+    icon: 'smile',
+    component: './Bai1_Game',
+   },
+   {
+    path: '/bai-2',
+    name: 'Bài 2: Todo List',
+    icon: 'check-square',
+    component: './Bai2_Todo',
+ },
 
 	// DANH MUC HE THONG
 	// {
