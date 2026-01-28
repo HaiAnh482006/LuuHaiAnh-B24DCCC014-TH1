@@ -39,13 +39,13 @@
     {
     path: '/bai-1',
     name: 'Bài 1: Game Đoán Số',
-    icon: 'smile',
+    icon: 'QuestionOutlined', // Icon dấu hỏi lịch sự,
     component: './Bai1_Game',
    },
    {
     path: '/bai-2',
     name: 'Bài 2: Todo List',
-    icon: 'check-square',
+    icon: 'CheckSquareOutlined', // Icon danh sách công việc chuẩn,
     component: './Bai2_Todo',
  },
 
